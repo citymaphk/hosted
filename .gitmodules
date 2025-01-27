@@ -4,3 +4,6 @@
 [submodule "scripts/tiles/mbutil"]
 	path = scripts/tiles/mbutil
 	url = https://github.com/mapbox/mbutil.git
+[submodule "scripts/tiles/citymaptiles"]
+	path = scripts/tiles/citymaptiles
+	url = https://github.com/citymaphk/citymaptiles
