@@ -1,0 +1,6 @@
+[submodule "scripts/citymaptiles"]
+	path = scripts/citymaptiles
+	url = https://github.com/citymaphk/citymaptiles
+[submodule "scripts/tiles/mbutil"]
+	path = scripts/tiles/mbutil
+	url = https://github.com/mapbox/mbutil.git
